@@ -2,7 +2,7 @@ The program models a menu of options that is used in text-based interactive prog
 
 The user is first presented with a list of options to choose from and is then prompted to enter a value corresponding to an option.
 
-The purpose of the program is to practice the following features of C++:
+The purpose of the program is to implement the following in C++:
 
 o	dynamic memory management
 o	dynamic arrays of characters
